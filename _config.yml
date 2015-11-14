@@ -1,0 +1,23 @@
+name: TrimCutShave
+favicon: null
+layout_spectrum: 0.9831328701693565
+typography_spectrum: 0.35654565575532615
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.46460363175719976
+  lightness: 0.40838844515383244
+  saturation: 0.763490883866325
+  rhythmicContrast: 0.38508402672596276
+purpose: []
