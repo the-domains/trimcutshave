@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Trim Cute Shave]]></title>
         <description><![CDATA[Trim Cute Shave]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/trimcutshave/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 17:43:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 17:59:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/trimcutshave/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/519e1191-1df1-4f26-80b2-be8e3859a0a5.jpg">]]></description>
-            <link>undefinede5407e38-f1b4-458d-bb97-c631b3b3aa2e/index.html</link>
+            <link>https://thegrid.ai/trimcutshave/e5407e38-f1b4-458d-bb97-c631b3b3aa2e/index.html</link>
             <guid isPermaLink="false">e5407e38-f1b4-458d-bb97-c631b3b3aa2e</guid>
-            <pubDate>Sat, 30 Jan 2016 17:42:28 GMT</pubDate>
+            <pubDate>Sat, 30 Jan 2016 17:57:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
