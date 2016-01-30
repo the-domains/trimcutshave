@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2016-01-30T17:59:54.538Z'
-dateModified: '2016-01-30T17:59:49.306Z'
+datePublished: '2016-01-30T18:01:46.037Z'
+dateModified: '2016-01-30T18:01:43.321Z'
 title: Bit of a trim
 author: []
 sourcePath: _posts/2016-01-30-bit-of-a-trim.md
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78e03d70-80f2-4ca0-acbe-7c2d053b959f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e342c8e735a41515d3b0058d644687e0fbb6652b.jpg)
 
 # Bit of a trim
 
