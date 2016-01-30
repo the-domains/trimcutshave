@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2016-01-30T17:59:54.491Z'
+datePublished: '2016-01-30T17:59:54.538Z'
 dateModified: '2016-01-30T17:59:49.306Z'
 title: Bit of a trim
 author: []
