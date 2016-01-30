@@ -4,21 +4,21 @@
         <description><![CDATA[Trim Cute Shave]]></description>
         <link>https://thegrid.ai/trimcutshave/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 18:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 18:24:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/trimcutshave/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Just an Ordinary Day ]]></title>
+            <description><![CDATA[<article><h1>Just an Ordinary Day </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/805257763c2836b3dfcfb9d4103436e66ae355a5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/trimcutshave/e5407e38-f1b4-458d-bb97-c631b3b3aa2e/index.html</link>
+            <guid isPermaLink="false">e5407e38-f1b4-458d-bb97-c631b3b3aa2e</guid>
+            <pubDate>Sat, 30 Jan 2016 18:23:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ba32ce9-81f9-4b71-926e-ddb94822bc54.jpg">]]></description>
             <link>https://thegrid.ai/trimcutshave/ccc73b52-f1dd-4264-a699-9eadd3fd8c8b/index.html</link>
             <guid isPermaLink="false">ccc73b52-f1dd-4264-a699-9eadd3fd8c8b</guid>
             <pubDate>Sat, 30 Jan 2016 18:20:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/519e1191-1df1-4f26-80b2-be8e3859a0a5.jpg">]]></description>
-            <link>https://thegrid.ai/trimcutshave/e5407e38-f1b4-458d-bb97-c631b3b3aa2e/index.html</link>
-            <guid isPermaLink="false">e5407e38-f1b4-458d-bb97-c631b3b3aa2e</guid>
-            <pubDate>Sat, 30 Jan 2016 17:57:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
